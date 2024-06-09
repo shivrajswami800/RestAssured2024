@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="1" >
+  <test name="RestAssured1" >
+    <classes>
+       <class name="httpmethods.HttpRequests"/>
+    </classes>
+  </test>  
+</suite>
